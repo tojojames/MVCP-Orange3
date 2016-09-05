@@ -3,4 +3,4 @@
 **Sep 5, 2016**
 
 
-Conformal Prediction add-on Orange library, Orange 3.0 
+Conformal Prediction as a Orange library add-on (Orange 3.0)
